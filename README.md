@@ -1,8 +1,6 @@
 ## h2 IHO S100 Resources
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### This page provides resources related to the S-100 based Product Specifications as prioritized in the Annex 2 of the S-100 Roadmap. In addition to the Product Specifications themselves, Test Datasets and information about related S-100 testbed is provided. It is intended to support system developers in implementting S-100 based Product Specifications and provide a central location to provide feedback on their different components.
+
+##### This page provides resources related to the S-100 based Product Specifications as prioritized in the Annex 2 of the S-100 Roadmap. In addition to the Product Specifications themselves, Test Datasets and information about related S-100 testbed is provided. It is intended to support system developers in implementting S-100 based Product Specifications and provide a central location to provide feedback on their different components.
 
 
 ## Horizontal Rules
