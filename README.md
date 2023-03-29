@@ -30,8 +30,8 @@ This section lists software applications which provide the capability to create 
 | Software Provider      | S-101      | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
 | -----------------------|:----------:|:--------:|:---------:|:---------:|:---------:|:---------:|
 | Teledyne CARIS(HPD)    |Ed.1.1.0    |          |           |           |           |           |
-| Esri Inc (ArcGIS Pro)  | Ed.1.0.0   |          |           |           |           |           |
-| I4Insight              | Ed.1.0.0   |          |           |           |           |           |
+| Esri Inc (ArcGIS Pro)  |            |          |           |           |           |           |
+| I4Insight              |            |          |           |           |           |           |
 
 
 
