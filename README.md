@@ -50,7 +50,7 @@ The following are links to various test data sets that are produced by the indiv
 | S-101 TDS[^2]  |[LINK][S101TDS]  |                 |           |                |           |           |
 | KHOA S1OOP[^3] |                 |                 |           |                |           |           |
 | UKHO MDP  [^4] | [LINK][UKHO TDS]|                 |           |                |           |           |
-| NOAA PNP[^5]   |                 |[LINK][NOAA TDS] |           |[LINK][NOAA TDS]|           |           |
+| NOAA PMN  [^5] |                 |[LINK][NOAA TDS] |           |[LINK][NOAA TDS]|           |           |
 
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
 [UKHO TDS]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
@@ -89,7 +89,7 @@ A Test Framework has been developed to facilitate testing of S-100. This sets ou
 [^2]: Test Dataset.
 [^3]: S-100 Open Online Platform.
 [^4]: Marine Data Portal.
-[^5]: Precision Navigation Programme.
+[^5]: Precision Marine Navigation Programme.
 
 
     
