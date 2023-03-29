@@ -3,17 +3,24 @@ This page provides resources related to the S-100 based Product Specifications a
 
 ### S-100 based Product Specifications: Phase 1 in the S-100 Roadmap
 
-| Product Specification | S-101      | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
-| ----------------------|:----------:|:--------:|:---------:|:---------:|:---------:|:---------:|
-| Compliant to S-100    | `Ed.5.0.0` | Ed.4.0.0 | Ed.4.0.0  | Ed.4.0.0  | Ed.4.0.0  | Ed.4.0.0  |
-| Product Specification | Ed.1.1.0   |          |           |           |           |           |
-| DCEG[^1]              | Ed.1.1.0   |          |           |           |           |           |
-| Feature Catalogue     | Ed.1.1.0   |          |           |           |           |           |
-| Portrayal Catalogue   | Ed.1.1.0   |          |           |           |           |           |
-| Validation Checks     | Ed.1.1.0   |          |           |           |           |           |
-| IHO website links     |[S-101PT](https:www.iho.int)|[S-102PT](https:www.iho.int)| [TWCWG](https:www.iho.int)| [TWCWG](https:www.iho.int) |[NIPWG](https:www.iho.int)| [S-129PT](https:www.iho.int)|
+| Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
+| ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
+| Compliant to S-100    | [S-100 Ed.5.0.0] |       |     |           |           |           |           |
+| Product Specification | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| DCEG[^1]              | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| Feature Catalogue     | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| Portrayal Catalogue   | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| Validation Checks     | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| IHO website links     | [IHO S-101PT]    |[IHO S-102PT]| [IHO TWCWG]| [IHO TWCWG] |[IHO NIPWG] | [IHO S-129PT]|
 
+[S-100 Ed.5.0.0]:https://registry.iho.int/productspec/view.do?idx=194&product_ID=S-100&statusS=5&domainS=ALL&category=product_ID&searchValue=
+[S-101 Ed.1.1.0]:https://registry.iho.int/productspec/view.do?idx=78&product_ID=S-101&statusS=5&domainS=ALL&category=product_ID&searchValue=
 
+[IHO S-101PT]:https://iho.int/en/s-101-project-team-1 
+[IHO S-102PT]:https://iho.int/en/s-102-project-team-1
+[IHO S-129PT]:https://iho.int/en/resources-0-0-0
+[IHO TWCWG]:https://iho.int/en/twcwg
+[IHO NIPWG]:https://iho.int/en/nipwg
 
 
 ### Product Software Support
@@ -31,26 +38,33 @@ This section lists software applications which provide the capability to create 
 ### Test Datasets
 S-164 *- IHO Test Data Sets in ECDIS* have been produced to fulfil the requirement for a set of data sets necessary to accomplish all ECDIS testing requirements as outlined in the IEC 61174 standard.  The Test Data Sets (TDS) are published as IHO Publication S-164 and consist of numerous data sets required for testing as well as the TDS Instruction Manual (TIM).  The TIM provides supporting documentation about the organization, understanding, and use of the ENC TDS and is intended to be used along with the data sets included in the TDS. 
 
-S-164 can be found at the following link: (*[In development](https://github.com/iho-ohi/S-164-Sub-Group)*) 
+S-164 can be found at the following link: [In development][S-164 webpage In development]
+
+[S-164 webpage In development]:https://github.com/iho-ohi/S-164-Sub-Group 
 
 The following are links to various test data sets that are produced by the individual Project Teams as well as various IHO Member States in support of S-100 Implementation. 
 
 
-| Name                                | S-101      | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
-| ------------------------------------|:----------:|:--------:|:---------:|:---------:|:---------:|:---------:|
-| S-101 TDS[^2]                           |[LINK](https://github.com/iho-ohi/S-101-Test-Datasets)    |          |           |           |           |           |
-| KHOA S1OOP[^3] |            |          |           |           |           |           |
-| UKHO MDP  [^4] | [LINK](https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100)   |          |           |           |           |           |
-| NOAA PNP[^5] |          |  [LINK](https://beta.marinenavigation.noaa.gov/gateway/)        |           |[LINK](https://beta.marinenavigation.noaa.gov/gateway/)      |           |           |
+| Name           | S-101           | S-102           |  S-104    |  S-111         |  S-124    |  S-129    |      
+| ---------------|:---------------:|:---------------:|:---------:|:--------------:|:---------:|:---------:|
+| S-101 TDS[^2]  |[LINK][S101TDS]  |                 |           |                |           |           |
+| KHOA S1OOP[^3] |                 |                 |           |                |           |           |
+| UKHO MDP  [^4] | [LINK][UKHO TDS]|                 |           |                |           |           |
+| NOAA PNP[^5]   |                 |[LINK][NOAA TDS] |           |[LINK][NOAA TDS]|           |           |
+
+[S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
+[UKHO TDS]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
+[NOAA TDS]: https://beta.marinenavigation.noaa.gov/gateway/
+
 
 
 ### Testbed Programmes
 
 
-| Name                      | Contributors| Related standards    |  Information   | Contact    |        
-| --------------------------|:-----------:|:--------------------:|:--------------:|:----------:|
-| TS-100 Across the channel |France, UK   | S-101, S-102         |                |            | 
-| IHO-Singapore Lab         |Singapore    | S-101, S-102         |                |            |  
+| Name                      | Contributors| Related standards    |  Information   | Contact    |
+| --------------------------|:-----------:|:--------------------:|:--------------:|:------ ---:|
+| TS-100 Across the channel |France, UK   | S-101, S-102         |                |            |
+| IHO-Singapore Lab         |Singapore    | S-101, S-102         |                |            |
 |                           |             |                      |                |            |
 
 
