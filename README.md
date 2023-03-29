@@ -94,10 +94,3 @@ A Test Framework has been developed to facilitate testing of S-100. This sets ou
 
     
 ###### *Please contact [IHO Secratariat](mailto:yong.baek@iho.int "Mr.Yong BAEK") if you encounter any technical issues on this webpage.*
-
-<p align="center">
-  <img src="https://github.com/iho-ohi/S100Resources/blob/main/images/IHO_Logo_RGB_Complete_EN.png" alt="IHO logo" width="200" height="60">
-</p>
-
-[IHO logo]:https://github.com/iho-ohi/S100Resources/blob/main/images/IHO_Logo_RGB_Complete_EN.png "International Hydrographic Organization"
-
