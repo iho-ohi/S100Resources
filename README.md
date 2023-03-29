@@ -5,12 +5,12 @@ This page provides resources related to the S-100 based Product Specifications a
 
 | Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
-| Compliant to S-100    | [S-100 Ed.5.0.0] |       |     |           |           |           |           |
+| Compliant to S-100    | [S-100 Ed.5.0.0] |             |           |           |           |           |
 | Product Specification | [S-101 Ed.1.1.0] |             |           |           |           |           |
 | DCEG[^1]              | [S-101 Ed.1.1.0] |             |           |           |           |           |
 | Feature Catalogue     | [S-101 Ed.1.1.0] |             |           |           |           |           |
 | Portrayal Catalogue   | [S-101 Ed.1.1.0] |             |           |           |           |           |
-| Validation Checks     | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| Validation Checks     |                  |             |           |           |           |           |
 | IHO website links     | [IHO S-101PT]    |[IHO S-102PT]| [IHO TWCWG]| [IHO TWCWG] |[IHO NIPWG] | [IHO S-129PT]|
 
 [S-100 Ed.5.0.0]:https://registry.iho.int/productspec/view.do?idx=194&product_ID=S-100&statusS=5&domainS=ALL&category=product_ID&searchValue=
@@ -60,12 +60,13 @@ The following are links to various test data sets that are produced by the indiv
 
 ### Testbed Programmes
 
+|  Name                     | Contributors      | Related standards    |  Information    | Contact    |       
+| --------------------------|:-----------------:|:--------------------:|:---------------:|:----------:|
+| S-100 Across the channel  |France, UK         |S-101, S-102          |                 |            |   
+| IHO-Singapore Lab         | Singapore         | S-101, S-102         |                 |            |         
 
-| Name                      | Contributors| Related standards    |  Information   | Contact    |
-| --------------------------|:-----------:|:--------------------:|:--------------:|:------ ---:|
-| TS-100 Across the channel |France, UK   | S-101, S-102         |                |            |
-| IHO-Singapore Lab         |Singapore    | S-101, S-102         |                |            |
-|                           |             |                      |                |            |
+
+
 
 
 
