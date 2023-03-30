@@ -27,13 +27,13 @@ This page provides resources related to the S-100 based Product Specifications a
 This section lists software applications which provide the capability to create and edit S-100 datasets, which have now implemented S-100 Edition 5.0.0.
 
 
-| Software Provider    | Application                   | S-101    | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
-| ---------------------|:-----------------------------:|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
-| KHOA                 |[KHOA S-100 viewer] `Free`     |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
-| NIWC                 |[NIWC S-100 viewer] `Free`     |Ed.1.0.0  |           |           |           |          |           |
-| I4Insight            |[dKart S-101 Converter] `Free` | Ed.1.0.0 |           |           |           |          |           |
-| Teledyne CARIS       |HPD 4.1.36                     |Ed.1.0.0  |           |           |           |          |           |
-| Esri Inc             |ArcGIS Pro                     |          |           |           |           |          |           |
+| Software Provider    | Application                       | S-101    | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
+| ---------------------|:---------------------------------:|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
+| KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
+| NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.1.0.0  |           |           |           |          |           |
+| I4Insight            |[dKart S-101 Converter] **`Free`** | Ed.1.0.0 |           |           |           |          |           |
+| Teledyne CARIS       |HPD 4.1.36                         |Ed.1.0.0  |           |           |           |          |           |
+| Esri Inc             |ArcGIS Pro                         |          |           |           |           |          |           |
 
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
