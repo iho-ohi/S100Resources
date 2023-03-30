@@ -30,11 +30,14 @@ This section lists software applications which provide the capability to create 
 | Software Provider    | Application                  | S-101    | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ---------------------|:----------------------------:|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
 | KHOA                 |[KHOA S-100 viewer] `Free`    |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
+| NIWC                 |[NIWC S-100 viewer] `Free`    |Ed.1.0.0  |           |           |           |          |           |
+| I4Insight            |[dKart S-101 Converter] `Free`| Ed.1.0.0 |           |           |           |          |           |
 | Teledyne CARIS       |HPD 4.1.36                    |Ed.1.0.0  |           |           |           |          |           |
 | Esri Inc             |ArcGIS Pro                    |          |           |           |           |          |           |
-| I4Insight            |[dKart S-101 Converter] `Free`| Ed.1.0.0 |           |           |           |          |           |
+
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
+[NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
 [dKart S-101 Converter]:https://registry.iho.int/repository/list.do 
 
 ### Test Datasets
