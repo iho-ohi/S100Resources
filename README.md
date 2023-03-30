@@ -82,12 +82,11 @@ A Test Framework has been developed to facilitate testing of S-100. This sets ou
 
 | Title                  | S-101      | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
 | -----------------------|:----------:|:--------:|:---------:|:---------:|:---------:|:---------:|
-| Test Dataset Feedback  |[TEMPLATE]    |          |           |           |           |           |
+| Test Dataset Feedback  |TEMPLATE    |          |           |           |           |           |
 | Product Specification  | TEMPLATE   |          |           |           |           |           |
 | Test Framework         | TEMPLATE   |          |           |           |           |           |
 | Point of Contact       | TEMPLATE   |          |           |           |           |           |
 
-[TEMPLATE]:../gp-source/feedback.md
 
 [^1]: Data Classification and Encoding Guide.
 [^2]: Test Dataset.
