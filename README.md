@@ -64,10 +64,11 @@ The following are links to various test data sets that are produced by the indiv
 | --------------------------|:-----------------:|:--------------------:|:---------------:|:--------------:|
 | S-100 Across the channel  |France, UK         | S-101, S-102         |                 |                |   
 | IHO-Singapore Lab         | Singapore         | S-101, S-102         | [LINK][Lab LINK]|[Dr Parry Oei]  |
-| KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |                |   
+| KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |[Ms Iji KIM]    |   
 
 [Lab LINK]: https://iho.int/en/projects 
 [Dr Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
+[Ms Iji KIM]:mailto:izzykim@korea.kr
 
 
 
