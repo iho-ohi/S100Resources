@@ -6,16 +6,16 @@ This page provides resources related to the S-100 based Product Specifications a
 | Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
 | Compliant to S-100    | [S-100 Ed.5.0.0] |             |           |           |           |           |
-| Product Specification | [S-101 Ed.1.1.0] |             |           |           |           |           |
-| DCEG[^1]              | [S-101 Ed.1.1.0] |             |           |           |           |           |
-| Feature Catalogue     | [S-101 Ed.1.1.0] |             |           |           |           |           |
-| Portrayal Catalogue   | [S-101 Ed.1.1.0] |             |           |           |           |           |
+| Product Specification | [S-101 Ed.1.0.0] |             |           |           |           |           |
+| DCEG[^1]              | [S-101 Ed.1.0.2] |             |           |           |           |           |
+| Feature Catalogue     | [S-101 Ed.1.0.2] |             |           |           |           |           |
+| Portrayal Catalogue   | [S-101 Ed.1.0.2] |             |           |           |           |           |
 | Validation Checks     |                  |             |           |           |           |           |
 | IHO website links     | [IHO S-101PT]    |[IHO S-102PT]| [IHO TWCWG]| [IHO TWCWG] |[IHO NIPWG] | [IHO S-129PT]|
 
 [S-100 Ed.5.0.0]:https://registry.iho.int/productspec/view.do?idx=194&product_ID=S-100&statusS=5&domainS=ALL&category=product_ID&searchValue=
-[S-101 Ed.1.1.0]:https://registry.iho.int/productspec/view.do?idx=78&product_ID=S-101&statusS=5&domainS=ALL&category=product_ID&searchValue=
-
+[S-101 Ed.1.0.0]:https://registry.iho.int/productspec/view.do?idx=78&product_ID=S-101&statusS=5&domainS=ALL&category=product_ID&searchValue=
+[S-101 Ed.1.0.2]:https://registry.iho.int/productspec/view.do?idx=78&product_ID=S-101&statusS=5&domainS=ALL&category=product_ID&searchValue=
 [IHO S-101PT]:https://iho.int/en/s-101-project-team-1 
 [IHO S-102PT]:https://iho.int/en/s-102-project-team-1
 [IHO S-129PT]:https://iho.int/en/resources-0-0-0
