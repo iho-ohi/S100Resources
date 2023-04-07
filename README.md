@@ -35,9 +35,10 @@ This section lists software applications which provide the capability to create 
 | I4Insight            |[dKart S-101 Converter] **`Free`** | Ed.1.0.0 |           |           |           |          |           |
 | Teledyne CARIS       |HPD 4.1.36                         |Ed.1.0.0  |           |           |           |          |           |
 | Esri Inc             |ArcGIS Pro                         |          |           |           |           |          |           |
-| IIC                  |Feature Builder[^6]                    | Ed.1.1.0 |           |           |           |          |           |
+| IIC                  |Feature Builder[^6]                | Ed.1.1.0 |           |           |           |          |           |
 | IIC                  |Exchange Set Builder               |    Yes   | Yes       |Yes        |Yes        |Yes       |Yes        |
-[^6]: support to produce S-101 and any GML encoded products(S-12X)
+
+
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
 [NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
@@ -101,6 +102,7 @@ A Test Framework has been developed to facilitate testing of S-100. This sets ou
 [^3]: S-100 Open Online Platform.
 [^4]: Marine Data Portal.
 [^5]: Precision Marine Navigation Programme.
+[^6]: Support to produce S-101 and any GML encoded products(S-12X).
 
 
     
