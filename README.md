@@ -102,7 +102,7 @@ A Test Framework has been developed to facilitate testing of S-100. This sets ou
 [^3]: S-100 Open Online Platform.
 [^4]: Marine Data Portal.
 [^5]: Precision Marine Navigation Programme.
-[^6]: Support to produce S-101 and any GML encoded products(S-12X).
+[^6]: Support to produce S-101 and GML encoded products(S-12X).
 
 
     
