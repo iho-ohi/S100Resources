@@ -3,7 +3,7 @@
 This page provides resources related to the S-100 based Product Specifications as prioritized in the [Annex 2 of the S-100 Roadmap](https://iho.int/uploads/user/About%20IHO/Council/S-100_ImplementationStrategy/S-100%20Roadmap_Annex_2_v2.0_July2022.pdf). In addition to the Product Specifications themselves, Test Datasets and information about related S-100 testbed is provided. It is intended to support system developers in implementting S-100 based Product Specifications and provide a central location to provide feedback on their different components.
 
 ### S-100 based Product Specifications: Phase 1 in the S-100 Roadmap
-*Where all components of a Product Specification can be found at the same location (such as the IHO Geospatial Information (GI) Registry, Product Specification Register),  the link to these components is included in the Product Specification entry only*
+*Product Specifications are listed below indicating the versions published for testing and development. Component elements can be downloaded from the IHO Geospatial Information (GI) Registry by following the link for each Product Specification entry*
 
 | Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
