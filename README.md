@@ -36,7 +36,7 @@ This section lists software applications which provide the capability to create 
 | KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
 | NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.1.0.0  |           |           |           |          |           |
 | I4Insight            |[dKart S-101 Converter] **`Free`** | Ed.1.0.0 |           |           |           |          |           |
-| Teledyne CARIS       |HPD 4.1.36                         |Ed.1.0.0  |           |           |           |          |           |
+| Teledyne CARIS       |HPD 4.1.36                         |Ed.1.1.0  |           |           |           |          |           |
 | Esri Inc             |ArcGIS Pro                         |          |           |           |           |          |           |
 | IIC                  |Feature Builder[^6]                | Ed.1.1.0 |           |           |           |          |           |
 | IIC                  |Exchange Set Builder               |    Yes   | Yes       |Yes        |Yes        |Yes       |Yes        |
