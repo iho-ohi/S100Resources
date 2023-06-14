@@ -42,7 +42,8 @@ This section lists software applications which provide the capability to create 
 | Esri Inc             |ArcGIS Pro 3.1                     |Ed.1.0.0  |           |           |           |          |           |
 | IIC                  |Feature Builder[^6]                |Ed.1.1.0  |           |           |           |          |           |
 | IIC                  |Exchange Set Builder               |   Yes    | Yes       |Yes        |Yes        |Yes       |Yes        |
-
+| 7Cs                  |Analyzer for Validation            |Ed.1.1.0  |           |           |           |          |           |
+| 7Cs                  |FME based S-57 to S-101 conversion |Ed.1.1.0  |           |           |           |          |           |
 
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
