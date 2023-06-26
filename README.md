@@ -38,17 +38,20 @@ This section lists software applications which provide the capability to create 
 | KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
 | NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.1.0.0  |           |           |           |          |           |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
-| Teledyne CARIS       |HPD 4.1.36                         |Ed.1.1.0  |           |           |           |          |           |
+| Teledyne CARIS       |[CARIS Easy view]   **`Free`**     |Ed.1.x.x  | Ed.2.1.0  |           |           |          |           |
+|                      |HPD 4.1.36                         |Ed.1.1.0  |           |           |           |          |           |
+|                      |BASE Editor 5.5.6                  |          | Ed.2.1.0  |           |           |          |           |
 | Esri Inc             |ArcGIS Pro 3.1                     |Ed.1.0.0  |           |           |           |          |           |
 | IIC                  |Feature Builder[^6]                |Ed.1.1.0  |           |           |           |          |           |
-| IIC                  |Exchange Set Builder               |   Yes    | Yes       |Yes        |Yes        |Yes       |Yes        |
+|                      |Exchange Set Builder               |   Yes    | Yes       |Yes        |Yes        |Yes       |Yes        |
 | 7Cs                  |Analyzer for Validation            |Ed.1.1.0  |           |           |           |          |           |
-| 7Cs                  |FME based S-57 to S-101 conversion |Ed.1.1.0  |           |           |           |          |           |
+|                      |FME based S-57 to S-101 conversion |Ed.1.1.0  |           |           |           |          |           |
 
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
 [NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
 [dKart S-101 Converter]:https://registry.iho.int/repository/list.do 
+[CARIS Easy view]:https://www.teledynecaris.com/en/products/easy-view/
 
 ### Test Datasets
 S-164 *- IHO Test Datasets in ECDIS* have been produced to fulfil the requirement for a set of datasets necessary to accomplish all ECDIS testing requirements as outlined in the IEC 61174 standard.  The Test DataSets (TDS) are published as IHO Publication S-164 and consist of numerous datasets required for testing as well as the TDS Instruction Manual (TIM).  The TIM provides supporting documentation about the organization, understanding, and use of the ENC TDS and is intended to be used along with the datasets included in the TDS. 
