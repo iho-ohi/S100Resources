@@ -70,7 +70,7 @@ The following are links to various test datasets that are produced by the indivi
 | KHOA S1OOP[^3] |                 |                 |           |                |           |           |
 | UKHO MDP  [^4] | [LINK][UKHO TDS]|                 |           |                |           |           |
 | NOAA PMN  [^5] |                 |[LINK][NOAA TDS] |           |[LINK][NOAA TDS]|           |           |
-| PRIMAR Chart Catalogue |         | [LINK][PRIMAR Chart]        |[LINK][PRIMAR Chart]        |                |           |           |
+| PRIMAR Chart Catalogue |         | [LINK][NOAA TDS]        |[LINK][PRIMAR Chart]        |                |           |           |
 | PRIMAR security scheme test - PRIMAR remote update protocol |                 |[LINK][PRIMAR security] |           |[LINK][PRIMAR security]|           |           |
 
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
