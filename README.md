@@ -86,7 +86,7 @@ The following are links to various test datasets that are produced by the indivi
 | --------------------------|:-----------------:|:--------------------:|:---------------:|:--------------:|
 | KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |[Ms Iji KIM]    |
 | IHO-Singapore Lab         | Singapore         | S-101, S-102         | [LINK][Lab LINK]|[Dr Parry Oei]  |
-| S-100 Across the channel  |France, UK         | S-101, S-102         |                 |                |
+| S-100 Across the channel  |France, UK         | S-101, S-102         |                 |[Christian Mouden]                |
 |PRIMAR Conversion Project  |PRIMAR, PRIMAR RENC member states, Taiwan, SevenCs, i4Insight, TCaris, ECC   | S-101     |[LINK][PRIMAR conversion] | data@ecc.no  |
 | S-100 / S-102 Demo        |ECC, PRIMAR, Norway| S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo],[S-102 Demo][S-102 Demo]|                 |                |
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs| S-102, S-104, S-111    | [LINK][S-100 service]                |                |
@@ -94,6 +94,7 @@ The following are links to various test datasets that are produced by the indivi
 [Lab LINK]: https://iho.int/en/projects 
 [Dr Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
 [Ms Iji KIM]:mailto:izzykim@korea.kr
+[Christian Mouden]:mailto:christian.mouden@shom.fr
 [PRIMAR conversion]: https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
 [S-100 Demo]: https://s-100.no/
 [S-102 Demo]: https://s102.no/
@@ -102,19 +103,16 @@ The following are links to various test datasets that are produced by the indivi
 
 
 
-### Test Framework
-
-A Test Framework has been developed to facilitate testing of S-100. This sets out a number of testing objectives to support testbeds in creating more detailed test materials. It includes some example user stories and where relevant references to associated Test Datasets. Feedback is welcome on the Test Framework. [In preparation](https://iho-ohi.github.io/S100Resources/)
-
-
 ### Provide Feedback
 
-| Title                  | S-101      | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
-| -----------------------|:----------:|:--------:|:---------:|:---------:|:---------:|:---------:|
-| Test Dataset Feedback  |TEMPLATE    |          |           |           |           |           |
-| Product Specification  | TEMPLATE   |          |           |           |           |           |
-| Test Framework         | TEMPLATE   |          |           |           |           |           |
-| Point of Contact       | TEMPLATE   |          |           |           |           |           |
+| Title                  | S-101              | S-102            |  S-104              |  S-111            |  S-124            |  S-129            |      
+| -----------------------|:------------------:|:----------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
+| Test Dataset Feedback  |[Thomas Richardson] |[Lawrence Hasimaier]|                   |                     |                   | [Jason Rhee]          |
+| Product Specification  |[Thomas Richardson] |[Lawrence Hasimaier |                   |                     |                   | [Jason Rhee]         |
+
+[Thomas Richardson]:mailto:Thomas.Richardson@UKHO.gov.uk
+[Lawrence Hasimaier]:mailto:lawrence.h.haselmaier.civ@us.navy.mil
+[Jason Rhee]:mailto:j.rhee@omcinternational.com
 
 
 [^1]: Data Classification and Encoding Guide.
