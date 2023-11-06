@@ -76,8 +76,8 @@ The following are links to various test datasets that are produced by the indivi
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
 [UKHO TDS]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
 [NOAA TDS]: https://beta.marinenavigation.noaa.gov/gateway/
-[PRIMAR Chart] : https://primar.ecc.no/primar/portal/cc/mapClient.jsf
-[PRIMAR security] : https://primar.learnworlds.com/course/s-100-data-protection-source-code-and-testdata
+[PRIMAR Chart]: https://primar.ecc.no/primar/portal/cc/mapClient.jsf
+[PRIMAR security]: https://primar.learnworlds.com/course/s-100-data-protection-source-code-and-testdata
 
 
 ### Testbed Programmes
