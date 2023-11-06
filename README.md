@@ -104,8 +104,7 @@ The following are links to various test datasets that are produced by the indivi
 
 
 ### Provide Feedback
- Please reach out the contact persons to the Product Specification for your feedback as listed below.
-
+Please reach out to the contact persons listed below for your feedback on the Test Dataset and Product Specification.
 | Title                  | S-101              | S-102            |  S-104              |  S-111            |  S-124            |  S-129            |      
 | -----------------------|:------------------:|:----------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
 | Test Dataset Feedback  |[Thomas Richardson] |[Lawrence Hasimaier]|                   |                     |  [Eivind Mong]      | [Jason Rhee]          |
