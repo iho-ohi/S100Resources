@@ -87,14 +87,14 @@ The following are links to various test datasets that are produced by the indivi
 | KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |[Ms Iji KIM]    |
 | IHO-Singapore Lab         | Singapore         | S-101, S-102         | [LINK][Lab LINK]|[Dr Parry Oei]  |
 | S-100 Across the channel  |France, UK         | S-101, S-102         |                 |                |
-|PRIMAR Conversion Task Force Project |PRIMAR, PRIMAR RENC member states, Taiwan, SevenCs, i4Insight, TCaris, ECC        | S-101     |[LINK][PRIMAR conversion] | data@ecc.no  |
-| S-100 / S-102 Demo        |ECC, PRIMAR, Norway| S-101,S-102,S-111,S-129|[S-100 Demo LINK][S-100 Demo], [S-102 Demo LINK][S-102 Demo]|                 |                |
+|PRIMAR Conversion Project  |PRIMAR, PRIMAR RENC member states, Taiwan, SevenCs, i4Insight, TCaris, ECC   | S-101     |[LINK][PRIMAR conversion] | data@ecc.no  |
+| S-100 / S-102 Demo        |ECC, PRIMAR, Norway| S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo],[S-102 Demo][S-102 Demo]|                 |                |
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs| S-102, S-104, S-111    | [LINK][S-100 service]                |                |
 
 [Lab LINK]: https://iho.int/en/projects 
 [Dr Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
 [Ms Iji KIM]:mailto:izzykim@korea.kr
-[PRIMAR conversion] : https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
+[PRIMAR conversion]: https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
 [S-100 Demo]: https://s-100.no/
 [S-102 Demo]: https://s102.no/
 [S-100 service]: https://blog.ecc.no/s-100-data-as-a-service-how-the-chs-leverages-the-new-s-100-paradigm
