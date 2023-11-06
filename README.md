@@ -84,16 +84,16 @@ The following are links to various test datasets that are produced by the indivi
 
 |  Name                     | Contributors      | Related standards    |  Information    | Contact        |       
 | --------------------------|:-----------------:|:--------------------:|:---------------:|:--------------:|
-| KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |[Ms Iji KIM]    |
-| IHO-Singapore Lab         | Singapore         | S-101, S-102         | [LINK][Lab LINK]|[Dr Parry Oei]  |
+| KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |[Iji KIM]    |
+| IHO-Singapore Lab         | Singapore         | S-101, S-102         | [LINK][Lab LINK]|[Parry Oei]  |
 | S-100 Across the channel  |France, UK         | S-101, S-102         |                 |[Christian Mouden]                |
 |PRIMAR Conversion Project  |PRIMAR, PRIMAR RENC member states, Taiwan, SevenCs, i4Insight, TCaris, ECC   | S-101     |[LINK][PRIMAR conversion] | data@ecc.no  |
 | S-100 / S-102 Demo        |ECC, PRIMAR, Norway| S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo],[S-102 Demo][S-102 Demo]|                 |                |
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs| S-102, S-104, S-111    | [LINK][S-100 service]                |                |
 
 [Lab LINK]: https://iho.int/en/projects 
-[Dr Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
-[Ms Iji KIM]:mailto:izzykim@korea.kr
+[Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
+[Iji KIM]:mailto:izzykim@korea.kr
 [Christian Mouden]:mailto:christian.mouden@shom.fr
 [PRIMAR conversion]: https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
 [S-100 Demo]: https://s-100.no/
@@ -107,12 +107,13 @@ The following are links to various test datasets that are produced by the indivi
 
 | Title                  | S-101              | S-102            |  S-104              |  S-111            |  S-124            |  S-129            |      
 | -----------------------|:------------------:|:----------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|
-| Test Dataset Feedback  |[Thomas Richardson] |[Lawrence Hasimaier]|                   |                     |                   | [Jason Rhee]          |
-| Product Specification  |[Thomas Richardson] |[Lawrence Hasimaier |                   |                     |                   | [Jason Rhee]         |
+| Test Dataset Feedback  |[Thomas Richardson] |[Lawrence Hasimaier]|                   |                     |  [Eivind Mong]      | [Jason Rhee]          |
+| Product Specification  |[Thomas Richardson] |[Lawrence Hasimaier] |                   |                    |[Eivind Mong]        | [Jason Rhee]         |
 
 [Thomas Richardson]:mailto:Thomas.Richardson@UKHO.gov.uk
 [Lawrence Hasimaier]:mailto:lawrence.h.haselmaier.civ@us.navy.mil
 [Jason Rhee]:mailto:j.rhee@omcinternational.com
+[Eivind Mong]:mailto:Eivind.Mong@dfo-mpo.gc.ca
 
 
 [^1]: Data Classification and Encoding Guide.
