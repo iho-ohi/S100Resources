@@ -46,7 +46,8 @@ This section lists software applications which provide the capability to create 
 |                      |Exchange Set Builder               |   Yes    | Yes       |Yes        |Yes        |Yes       |Yes        |
 | 7Cs                  |Analyzer for Validation            |Ed.1.1.0  |           |           |           |          |           |
 |                      |FME based S-57 to S-101 conversion |Ed.1.1.0  |           |           |           |          |           |
-
+| ECC/PRIMAR           |IHO S-100 Ed4 and Ed5 SA protection application  |Support|Support             |Support    |Support    |Support   |Support    |
+| ECC                  |GDS(Geodata Distribution Server)   |Support      |Support|To be supported     | Support   |          |           |
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
 [NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
@@ -69,11 +70,14 @@ The following are links to various test datasets that are produced by the indivi
 | KHOA S1OOP[^3] |                 |                 |           |                |           |           |
 | UKHO MDP  [^4] | [LINK][UKHO TDS]|                 |           |                |           |           |
 | NOAA PMN  [^5] |                 |[LINK][NOAA TDS] |           |[LINK][NOAA TDS]|           |           |
+| PRIMAR Chart Catalogue |         | [LINK][PRIMAR Chart]        |[LINK][PRIMAR Chart]        |                |           |           |
+| PRIMAR security scheme test - PRIMAR remote update protocol |                 |[LINK][PRIMAR security] |           |[LINK][PRIMAR security]|           |           |
 
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
 [UKHO TDS]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
 [NOAA TDS]: https://beta.marinenavigation.noaa.gov/gateway/
-
+[PRIMAR Chart] : https://primar.ecc.no/primar/portal/cc/mapClient.jsf
+[PRIMAR security] : https://primar.learnworlds.com/course/s-100-data-protection-source-code-and-testdata
 
 
 ### Testbed Programmes
@@ -82,11 +86,18 @@ The following are links to various test datasets that are produced by the indivi
 | --------------------------|:-----------------:|:--------------------:|:---------------:|:--------------:|
 | KHOA S-100 Testbed        | Rep.of Korea      | S-98, S-1xx          |                 |[Ms Iji KIM]    |
 | IHO-Singapore Lab         | Singapore         | S-101, S-102         | [LINK][Lab LINK]|[Dr Parry Oei]  |
-| S-100 Across the channel  |France, UK         | S-101, S-102         |                 |                |   
+| S-100 Across the channel  |France, UK         | S-101, S-102         |                 |                |
+|PRIMAR Conversion Task Force Project |PRIMAR, PRIMAR RENC member states, Taiwan, SevenCs, i4Insight, TCaris, ECC        | S-101     |[LINK][PRIMAR conversion] | data@ecc.no  |
+| S-100 / S-102 Demo        |ECC, PRIMAR, Norway| S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo], [S-102 Demo][S-102 Demo]|                 |                |
+| S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs| S-102, S-104, S-111    | [LINK][service]                |                |
 
 [Lab LINK]: https://iho.int/en/projects 
 [Dr Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
 [Ms Iji KIM]:mailto:izzykim@korea.kr
+[PRIMAR conversion] : https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
+[S-100 Demo] : https://s-100.no/
+[S-102 Demo] : https://s102.no/
+[service] : https://blog.ecc.no/s-100-data-as-a-service-how-the-chs-leverages-the-new-s-100-paradigm
 
 
 
