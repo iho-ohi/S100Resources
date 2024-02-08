@@ -75,9 +75,9 @@ The following are links to various test datasets that are produced by the indivi
 
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
 [UKHO TDS1]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
-[UKHO TDS2] : https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items?tags=%22s102%20ports%22
-[UKHO TDS4] :https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/5f6630b0327f47689c5fa2bcb3b5eefd
-[UKHO TDS11] : https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/d94b8ecbe3884b129d231e8b5b757a6b
+[UKHO TDS2]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items?tags=%22s102%20ports%22
+[UKHO TDS4]:https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/5f6630b0327f47689c5fa2bcb3b5eefd
+[UKHO TDS11]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/d94b8ecbe3884b129d231e8b5b757a6b
 [NOAA TDS]: https://beta.marinenavigation.noaa.gov/gateway/
 [PRIMAR Chart]: https://primar.ecc.no/primar/portal/cc/mapClient.jsf
 [PRIMAR security]: https://primar.learnworlds.com/course/s-100-data-protection-source-code-and-testdata
