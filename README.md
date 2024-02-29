@@ -87,7 +87,7 @@ The following are links to various test datasets that are produced by the indivi
 
 |  Name                     | Contributors                                                                | Related standards     |  Information                                     | Contact          |       
 | --------------------------|:---------------------------------------------------------------------------:|:---------------------:|:------------------------------------------------:|:----------------:|
-| KHOA S-100 Testbed        | Rep.of Korea                                                                | S-98, S-1xx           |                                                  |[Iji KIM]         |
+| KHOA S-100 Testbed        | Rep.of Korea                                                                | S-98, S-1xx           |                                                  |[Martin PARK]         |
 | IHO-Singapore Lab         | Singapore                                                                   | S-101, S-102          | [LINK][Lab LINK]                                 |[Parry Oei]       |
 | S-100 Across the channel  |France, UK                                                                   | S-101, S-102          |                                                  |[Christian Mouden]|
 |PRIMAR Conversion Project  |PRIMAR, PRIMAR RENC member states, Taiwan, SevenCs, i4Insight, TCaris, ECC   | S-101                 |[LINK][PRIMAR conversion]                         | data@ecc.no      |
@@ -96,7 +96,7 @@ The following are links to various test datasets that are produced by the indivi
 
 [Lab LINK]: https://iho.int/en/projects 
 [Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
-[Iji KIM]:mailto:izzykim@korea.kr
+[Martin PARK]:mailto:martin.park@korea.kr
 [Christian Mouden]:mailto:christian.mouden@shom.fr
 [PRIMAR conversion]: https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
 [S-100 Demo]: https://s-100.no/
