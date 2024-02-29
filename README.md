@@ -7,8 +7,8 @@ This page provides resources related to the S-100 based Product Specifications a
 
 | Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
-| Compliant to S-100    | [S-100 Ed.5.0.0] |[S-100 Ed.5.0.0]|[S-100 Ed.5.0.0] | [S-100 Ed.5.0.0] |           | [S-100 Ed.4.0.0]|
-| Product Specification | [S-101 Ed.1.1.0] |[S-102 Ed.2.2.0]|[S-104 Ed.1.1.0] | [S-111 Ed.1.2.0] |           |[S-129 Ed.1.0.0] |
+| Compliant to S-100    | [S-100 Ed.5.0.0] |[S-100 Ed.5.0.0]|[S-100 Ed.5.0.0] | [S-100 Ed.5.0.0] |           | [S-100 Ed.5.0.0]|
+| Product Specification | [S-101 Ed.1.1.0] |[S-102 Ed.2.2.0]|[S-104 Ed.1.1.0] | [S-111 Ed.1.2.0] |           |[S-129 Ed.1.1.0] |
 | DCEG[^1]              | S-101 Ed.1.1.0   |             |           |           |           |           |
 | Feature Catalogue     | S-101 Ed.1.1.0   |S-102 Ed.2.2.0 | S-104 Ed.1.1.0 | S-111 Ed.1.2.0      |           |S-129 Ed.1.0.0   |
 | Portrayal Catalogue   | S-101 Ed.1.1.2   |             |           |           |           |S-129 Ed.1.0.0|
@@ -21,7 +21,7 @@ This page provides resources related to the S-100 based Product Specifications a
 [S-104 Ed.1.1.0]:https://registry.iho.int/productspec/view.do?idx=198&product_ID=S-104&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
 [S-111 Ed.1.2.0]:https://registry.iho.int/productspec/view.do?idx=178&product_ID=S-111&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
 [S-102 Ed.2.2.0]:https://registry.iho.int/productspec/view.do?idx=199&product_ID=S-102&statusS=5&domainS=ALL&category=product_ID&searchValue=
-[S-129 Ed.1.0.0]:https://registry.iho.int/productspec/view.do?idx=176&product_ID=S-129&statusS=5&domainS=ALL&category=product_ID&searchValue=
+[S-129 Ed.1.1.0]:https://registry.iho.int/productspec/view.do?idx=196&product_ID=S-129&statusS=5&domainS=ALL&category=product_ID&searchValue=
 [IHO S-101PT]:https://iho.int/en/s-101-project-team-1 
 [IHO S-102PT]:https://iho.int/en/s-102-project-team-1
 [IHO S-129PT]:https://iho.int/en/resources-0-0-0
