@@ -10,8 +10,8 @@ This page provides resources related to the S-100 based Product Specifications a
 | Compliant to S-100    | [S-100 Ed.5.0.0] |[S-100 Ed.5.0.0]|[S-100 Ed.5.0.0] | [S-100 Ed.5.0.0] |           | [S-100 Ed.5.0.0]|
 | Product Specification | [S-101 Ed.1.1.0] |[S-102 Ed.2.2.0]|[S-104 Ed.1.1.0] | [S-111 Ed.1.2.0] |           |[S-129 Ed.1.1.0] |
 | DCEG[^1]              | S-101 Ed.1.1.0   |             |           |           |           |           |
-| Feature Catalogue     | S-101 Ed.1.1.0   |S-102 Ed.2.2.0 | S-104 Ed.1.1.0 | S-111 Ed.1.2.0      |           |S-129 Ed.1.0.0   |
-| Portrayal Catalogue   | S-101 Ed.1.1.2   |             |           |           |           |S-129 Ed.1.0.0|
+| Feature Catalogue     | S-101 Ed.1.1.0   |S-102 Ed.2.2.0 | S-104 Ed.1.1.0 | S-111 Ed.1.2.0      |           |S-129 Ed.1.1.0   |
+| Portrayal Catalogue   | S-101 Ed.1.1.2   |             |           |           |           |S-129 Ed.1.1.0|
 | Validation Checks     | S-101 Ed.1.1.1   |             |           |           |           |           |
 | IHO website links     | [IHO S-101PT]    |[IHO S-102PT]| [IHO TWCWG]| [IHO TWCWG] |[IHO NIPWG] | [IHO S-129PT]|
 
