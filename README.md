@@ -9,11 +9,11 @@ This page provides resources related to the S-100 based Product Specifications a
 
 | Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
-| Compliant to S-100    | [S-100 Ed.5.0.0] |[S-100 Ed.5.0.0]|[S-100 Ed.5.0.0] | [S-100 Ed.5.0.0] |           | [S-100 Ed.5.0.0]|
-| Product Specification | [S-101 Ed.1.2.0] |[S-102 Ed.2.2.0]|[S-104 Ed.1.1.0] | [S-111 Ed.1.2.0] |           |[S-129 Ed.1.1.0] |
+| Compliant to S-100    | [S-100 Ed.5.0.0] |[S-100 Ed.5.0.0]|[S-100 Ed.5.0.0] | [S-100 Ed.5.0.0] | [S-100 Ed.5.0.0]  | [S-100 Ed.5.0.0]|
+| Product Specification | [S-101 Ed.1.2.0] |[S-102 Ed.2.2.0]|[S-104 Ed.1.1.0] | [S-111 Ed.1.2.0] | [S-124 Ed.1.0.0]  |[S-129 Ed.1.1.0] |
 | DCEG[^1]              | S-101 Ed.1.2.0   |             |           |           |           |           |
-| Feature Catalogue     | S-101 Ed.1.2.3   |S-102 Ed.2.2.0 | S-104 Ed.1.1.0 | S-111 Ed.1.2.0      |           |S-129 Ed.1.1.0   |
-| Portrayal Catalogue   | S-101 Ed.1.2.3   |             |           |           |           |S-129 Ed.1.1.0|
+| Feature Catalogue     | S-101 Ed.1.2.3   |S-102 Ed.2.2.0 | S-104 Ed.1.1.0 | S-111 Ed.1.2.0      | S-124 Ed.1.0.0 |S-129 Ed.1.1.0   |
+| Portrayal Catalogue   | S-101 Ed.1.2.3   |             |           |           |  S-124 Ed.1.0.0           |S-129 Ed.1.1.0|
 | Validation Checks     | S-101 Ed.1.1.1   |             |           |           |           |           |
 | IHO website links     | [IHO S-101PT]    |[IHO S-102PT]| [IHO TWCWG]| [IHO TWCWG] |[IHO NIPWG] | [IHO S-129PT]|
 
@@ -23,6 +23,7 @@ This page provides resources related to the S-100 based Product Specifications a
 [S-104 Ed.1.1.0]:https://registry.iho.int/productspec/view.do?idx=198&product_ID=S-104&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
 [S-111 Ed.1.2.0]:https://registry.iho.int/productspec/view.do?idx=178&product_ID=S-111&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
 [S-102 Ed.2.2.0]:https://registry.iho.int/productspec/view.do?idx=199&product_ID=S-102&statusS=5&domainS=ALL&category=product_ID&searchValue=
+[S-124 Ed.1.0.0]:https://registry.iho.int/productspec/view.do?idx=181&product_ID=S-124&statusS=5&domainS=ALL&category=product_ID&searchValue=
 [S-129 Ed.1.1.0]:https://registry.iho.int/productspec/view.do?idx=196&product_ID=S-129&statusS=5&domainS=ALL&category=product_ID&searchValue=
 [IHO S-101PT]:https://iho.int/en/s-101-project-team-1 
 [IHO S-102PT]:https://iho.int/en/s-102-project-team-1
@@ -38,7 +39,7 @@ This section lists software applications which provide the capability to create 
 | Software Provider    | Application                       | S-101    | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ---------------------|:----------------------------------|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
 | KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
-| NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.1.0.0  |           |           |           |          |           |
+| NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.1.2.0  | Ed.2.2.0  | Ed.1.1.0  | Ed.1.2.0  |Ed.1.0.0  | Ed.1.1.0  |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
 | Teledyne CARIS       |[CARIS Easy view]   **`Free`**     |Ed.1.x.x  | Ed.2.1.0  |           |           |          |           |
 |                      |HPD 4.1.36                         |Ed.1.1.0  |           |           |           |          |           |
