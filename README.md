@@ -45,7 +45,7 @@ This section lists software applications which provide the capability to create 
 |                      |[HPD] and [Composer]               |Ed.1.2.0  |           |           |           |          |           |
 |                      |[BASE Editor]                      |          | Ed.2.2.0  |           |           |          |           |
 |                      |[CARIS Cloud]                      |          | Support   |           |Support    |          |           |
-| Esri Inc             |ArcGIS Pro 3.1                     |Ed.1.0.0  |           |           |           |          |           |
+| Esri Inc             |ArcGIS Pro 3.3                     |Ed.1.2.0  | Ed.2.1.0  |           |           |          |           |
 | IIC                  |Feature Builder[^6]                |Ed.1.1.0  |           |           |           |          |           |
 |                      |Exchange Set Builder               |   Yes    | Yes       |Yes        |Yes        |Yes       |Yes        |
 | 7Cs                  |Analyzer for Validation            |Ed.1.1.0  |           |           |           |          |           |
