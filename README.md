@@ -101,7 +101,7 @@ The following are links to various test datasets that are produced by the indivi
 |PRIMAR Conversion Project  |PRIMAR, PRIMAR RENC member states, NTOU, SevenCs, i4Insight, TCaris, ECC   | S-101                 |[LINK][PRIMAR conversion]                         | data@ecc.no      |
 | S-100 / S-102 Demo        |ECC, PRIMAR, Norway                                                          | S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo], [S-102 Demo][S-102 Demo]|                  |   
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs                                            | S-102, S-104, S-111    | [LINK][S-100 service]                            |                  |
-| Baltic Sea e-nav project  |Finnish Meterological Institute, Research Institute of Sweden, Satakunta University of Applied Sciences and Furuno Finland, (Partners: IC-ENC, PRIMAR, HO:s from PL and LT)                                          | S-98, S-101, S-102, S-104, S-111 | [LINK][Baltic e-nav]                            |                  |
+| Baltic Sea e-nav project  |HOs: from DE, DK, EE, FI, LV and SE, Finnish Meterological Institute, Research Institute of Sweden, Satakunta University of Applied Sciences and Furuno Finland, (Associated Partners: IC-ENC, PRIMAR, HO:s from PL and LT). The project is co-founded by EU| S-98, S-101, S-102, S-104, S-111 | [LINK][Baltic e-nav]                            |                  |
 
 [Lab LINK]: https://iho.int/en/projects 
 [Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
