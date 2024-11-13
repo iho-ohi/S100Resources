@@ -41,7 +41,7 @@ This section lists software applications which provide the capability to create 
 | ---------------------|:----------------------------------|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
 | KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.2.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
 | NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
-| NIWC                 |[NIWC S-100 ShoreECDIS] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
+|                      |[NIWC S-100 ShoreECDIS] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
 | Teledyne Geospatial  |[CARIS Easy view]   **`Free`**     |Ed.1.2.0  | Ed.2.2.0  |           |           |          |           |
 |                      |[HPD] and [Composer]               |Ed.1.4.1  |           |           |           |          |           |
