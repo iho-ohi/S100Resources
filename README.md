@@ -33,13 +33,14 @@ This page provides resources related to the S-100 based Product Specifications a
 
 
 ### Product Software Support
-This section lists software applications which provide the capability to create and edit S-100 datasets, which have now implemented S-100 Edition 5.0.0.
+This section lists software applications which provide the capability to create and edit S-100 datasets, which have now implemented S-100 Edition 5.2.0.
 
 
 | Software Provider    | Application                       | S-101    | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |         
 | ---------------------|:----------------------------------|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
-| KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
-| NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.1.2.0  | Ed.2.2.0  | Ed.1.1.0  | Ed.1.2.0  |Ed.1.0.0  | Ed.1.1.0  |
+| KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.2.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
+| NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
+| NIWC                 |[NIWC S-100 ShoreECDIS] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
 | Teledyne Geospatial  |[CARIS Easy view]   **`Free`**     |Ed.1.2.0  | Ed.2.2.0  |           |           |          |           |
 |                      |[HPD] and [Composer]               |Ed.1.4.1  |           |           |           |          |           |
@@ -57,6 +58,7 @@ This section lists software applications which provide the capability to create 
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
 [NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
+[NIWC S-100 ShoreECDIS]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
 [dKart S-101 Converter]:https://registry.iho.int/repository/list.do 
 [CARIS Easy view]:https://www.teledynecaris.com/en/products/easy-view/
 [HPD]:https://www.teledynecaris.com/en/products/hpd/
