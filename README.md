@@ -57,8 +57,8 @@ This section lists software applications which provide the capability to create 
 * Other applications available: [S-421 Converter] **`Free`**  (ECC Provide) 
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
-[NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
-[NIWC S-100 ShoreECDIS]: https://registry.iho.int/repository/list.do "NIWC (former SPAWAR) S100Viewer, Editor and Shore ECDIS"
+[NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC S100Viewer and Shore ECDIS"
+[NIWC S-100 ShoreECDIS]: https://registry.iho.int/repository/list.do "NIWC S100Viewer and Shore ECDIS"
 [dKart S-101 Converter]:https://registry.iho.int/repository/list.do 
 [CARIS Easy view]:https://www.teledynecaris.com/en/products/easy-view/
 [HPD]:https://www.teledynecaris.com/en/products/hpd/
