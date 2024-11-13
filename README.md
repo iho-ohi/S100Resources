@@ -10,21 +10,22 @@ This page provides resources related to the S-100 based Product Specifications a
 | Product Specification | S-101            | S-102       |  S-104    |  S-111    |  S-124    |  S-129    |      
 | ----------------------|:----------------:|:-----------:|:---------:|:---------:|:---------:|:---------:|
 | Compliant to S-100    | [S-100 Ed.5.2.0] |[S-100 Ed.5.2.0]|[S-100 Ed.5.2.0] | [S-100 Ed.5.2.0] | [S-100 Ed.5.2.0]  | [S-100 Ed.5.2.0]|
-| Product Specification | [S-101 Ed.1.4.1] |[S-102 Ed.3.0.0]|[S-104 Ed.2.0.0] | [S-111 Ed.1.2.0] | [S-124 Ed.1.5.0]  |[S-129 Ed.1.2.0] |
-| DCEG[^1]              | S-101 Ed.1.4.1   |             |           |           |           |           |
-| Feature Catalogue     | S-101 Ed.1.4.1   |S-102 Ed.2.2.0 | S-104 Ed.1.1.0 | S-111 Ed.1.2.0      | S-124 Ed.1.0.0 |S-129 Ed.1.1.0   |
-| Portrayal Catalogue   | S-101 Ed.1.4.1   |             |           |           |  S-124 Ed.1.0.0           |S-129 Ed.1.1.0|
-| Validation Checks     | S-158:101 Ed.1.0.0   |             |           |           |           |S-158:129 Ed.1.0.0            |
+| Product Specification | [S-101 Ed.2.0.0] |[S-102 Ed.3.0.0]|[S-104 Ed.2.0.0] | [S-111 Ed.2.0.0] | [S-124 Ed.2.0.0]  |[S-129 Ed.2.0.0] |
+| DCEG[^1]              | S-101 Ed.2.0.0   |S-102 Ed.3.0.0 |S-104 Ed.2.0.0   |S-111 Ed.2.0.0    | S-124 Ed.2.0.0    |S-129 Ed.2.0.0  |
+| Feature Catalogue     | S-101 Ed.2.0.0   |S-102 Ed.3.0.0 |S-104 Ed.2.0.0   |S-111 Ed.2.0.0    | S-124 Ed.2.0.0    |S-129 Ed.2.0.0  |
+| Portrayal Catalogue   | S-101 Ed.2.0.0   |S-102 Ed.3.0.0 |S-104 Ed.2.0.0   |S-111 Ed.2.0.0    | S-124 Ed.2.0.0    |S-129 Ed.2.0.0  |
+| Validation Checks     | [S-158:101 Ed.1.0.0] |             |           |           |           |            |
 | IHO website links     | [IHO S-101PT]    |[IHO S-102PT]| [IHO TWCWG]| [IHO TWCWG] |[IHO NIPWG] | [IHO S-129PT]|
 
 [S-100 Ed.4.0.0]:https://registry.iho.int/productspec/view.do
 [S-100 Ed.5.2.0]:https://registry.iho.int/productspec/view.do?idx=207&product_ID=S-100&statusS=5&domainS=ALL&category=product_ID&searchValue=
-[S-101 Ed.1.4.1]:https://registry.iho.int/testbed/view.do?idx=214&product_ID=S-101&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
-[S-104 Ed.2.0.0]:https://registry.iho.int/testbed/view.do?idx=209&product_ID=S-104&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
-[S-111 Ed.1.2.0]:https://registry.iho.int/productspec/view.do?idx=178&product_ID=S-111&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
+[S-101 Ed.2.0.0]:https://registry.iho.int/testbed/view.do?idx=214&product_ID=S-101&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
 [S-102 Ed.3.0.0]:https://registry.iho.int/testbed/view.do?idx=215&product_ID=S-102&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
-[S-124 Ed.1.5.0]:https://registry.iho.int/testbed/view.do?idx=208&product_ID=S-124&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
-[S-129 Ed.1.2.0]:https://registry.iho.int/testbed/view.do?idx=216&product_ID=S-129&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
+[S-104 Ed.2.0.0]:https://registry.iho.int/testbed/view.do?idx=209&product_ID=S-104&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
+[S-111 Ed.2.0.0]:https://registry.iho.int/testbed/view.do?idx=210&product_ID=S-111&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
+[S-124 Ed.2.0.0]:https://registry.iho.int/testbed/view.do?idx=218&product_ID=S-124&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
+[S-129 Ed.2.0.0]:https://registry.iho.int/testbed/view.do?idx=218&product_ID=S-124&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
+[S-158:101 Ed.1.0.0]:https://registry.iho.int/testbed/view.do?idx=220&product_ID=S-158:100&statusS=ALL&domainS=ALL&category=product_ID&searchValue=
 [IHO S-101PT]:https://iho.int/en/s-101-project-team-1 
 [IHO S-102PT]:https://iho.int/en/s-102-project-team-1
 [IHO S-129PT]:https://iho.int/en/resources-0-0-0
