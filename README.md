@@ -40,6 +40,7 @@ This section lists software applications which provide the capability to create 
 | Software Provider    | Application                       | S-101    | S-102    |  S-104    |  S-111    |  S-124    |  S-129    |         
 | ---------------------|:----------------------------------|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
 | KHOA                 |[KHOA S-100 viewer] **`Free`**     |Ed.1.2.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
+|                      |[OpenS100 viewer] **`Free`**  |Ed.2.0.0  |  Ed.1.0.0 |           | Ed.1.0.0  |          |           |
 | NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 |                      |[NIWC S-100 ShoreECDIS] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
@@ -58,6 +59,7 @@ This section lists software applications which provide the capability to create 
 * Other applications available: [S-421 Converter] **`Free`**  (ECC Provide) 
 
 [KHOA S-100 viewer]: https://github.com/S-100ExpertTeam/khoa-s100-viewer
+[OpenS100 viewer]: https://github.com/S-100ExpertTeam/OpenS100
 [NIWC S-100 viewer]: https://registry.iho.int/repository/list.do "NIWC S100Viewer and Shore ECDIS"
 [NIWC S-100 ShoreECDIS]: https://registry.iho.int/repository/list.do "NIWC S100Viewer and Shore ECDIS"
 [dKart S-101 Converter]:https://registry.iho.int/repository/list.do 
@@ -81,9 +83,8 @@ The following are links to various test datasets that are produced by the indivi
 | Name           | S-101           | S-102           |  S-104          |  S-111                  |  S-124          |  S-129    |      
 | ---------------|:---------------:|:---------------:|:---------------:|:-----------------------:|:---------------:|:---------:|
 | S-101 TDS[^2]  |[LINK][S101TDS]  |                 |                 |                         |                 |           |
-| KHOA S1OOP[^3] |                 |                 |                 |                         |                 |           |
-| UKHO MDP  [^4] | [LINK][UKHO TDS1]|[LINK][UKHO TDS2] |[LINK][UKHO TDS4] | [LINK][UKHO TDS11]|  |                 |           |
-| NOAA PMN  [^5] |                 |[LINK][NOAA TDS] |                 |[LINK][NOAA TDS]         |                 |            |
+| UKHO MDP  [^3] | [LINK][UKHO TDS1]|[LINK][UKHO TDS2] |[LINK][UKHO TDS4] | [LINK][UKHO TDS11]|  |                 |           |
+| NOAA PMN  [^4] |                 |[LINK][NOAA TDS] |                 |[LINK][NOAA TDS]         |                 |            |
 | PRIMAR Chart Catalogue |         | [LINK][PRIMAR Chart]|[LINK][PRIMAR Chart] |                |                  |           |
 | PRIMAR security scheme test - PRIMAR remote update protocol |                 |[LINK][PRIMAR security] |           |[LINK][PRIMAR security]|           |           |
 
@@ -140,10 +141,9 @@ Please reach out to the contact persons listed below for your feedback on the Te
 
 [^1]: Data Classification and Encoding Guide.
 [^2]: Test Dataset.
-[^3]: S-100 Open Online Platform.
-[^4]: Marine Data Portal.
-[^5]: Precision Marine Navigation Programme.
-[^6]: Support to produce S-101 and GML encoded products(S-12X).
+[^3]: Marine Data Portal.
+[^4]: Precision Marine Navigation Programme.
+[^5]: Support to produce S-101 and GML encoded products(S-12X).
 
 
     
