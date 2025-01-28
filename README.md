@@ -51,9 +51,9 @@ This section lists software applications which provide the capability to create 
 | Esri Inc             |ArcGIS Pro 3.3                     |Ed.1.2.0  | Ed.2.1.0  |           |           |          |           |
 | IIC                  |Feature Builder[^6]                |Ed.1.1.0  |           |           |           |          |           |
 |                      |Exchange Set Builder               |   Yes    | Yes       |Yes        |Yes        |Yes       |Yes        |
-| SevenCs              |7Cs Analyzer for Visualization and Validation            |Ed.2.0.0  |Ed.1.2.0    |           |           |          |           |
+| SevenCs              |7Cs Analyzer for Visualization and Validation            |Ed.2.0.0  |Ed.2.2.0    |           |           |          |           |
 |                      |FME based S-57 vs. S-101 consistency checks              |Ed.2.0.0  |           |           |           |          |           |
-|                      |SDMS, data signing and Exchange Set creation             |Ed.2.0.0  |Ed.1.2.0    |           |          |           |
+|                      |SDMS, data signing and Exchange Set creation             |Ed.2.0.0  |Ed.2.2.0    |           |          |           |
 | ECC/PRIMAR           |IHO S-100 Ed4 and Ed5 SA protection application  |Support  |Support   |Support |Support |Support |Support |
 | ECC                  |GDS(Geodata Distribution Server)   |Support      |Support  |To be supported | Support   |          |           |
 
