@@ -44,9 +44,9 @@ This section lists software applications which provide the capability to create 
 | NIWC                 |[NIWC S-100 viewer] **`Free`**     |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 |                      |[NIWC S-100 ShoreECDIS] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
-| Teledyne Geospatial  |[CARIS Easy view]   **`Free`**     |Ed.2.0.0  | Ed.2.2.0  |           |           |          |           |
+| Teledyne Geospatial  |[CARIS Easy view]   **`Free`**     |Ed.2.0.0  | Ed.3.0.0  |           |           |          |           |
 |                      |[HPD] and [Composer]               |Ed.2.0.0  |           |           |           |          |           |
-|                      |[BASE Editor]                      |          | Ed.2.2.0  |           |           |          |           |
+|                      |[BASE Editor]                      |          | Ed.3.0.0  |           |           |          |           |
 |                      |[CARIS Cloud]                      |          | Support   |           |Support    |          |           |
 | Esri Inc             |ArcGIS Pro 3.5                     |Ed.2.0.0  | Ed.2.1.0  |           |           |          |           |
 | IIC                  |Feature Builder[^6]                |Ed.1.1.0  |           |           |           |          |           |
