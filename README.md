@@ -88,6 +88,7 @@ The following are links to various test datasets that are produced by the indivi
 | NOAA PMN  [^4] |                 |[LINK][NOAA TDS] |                 |[LINK][NOAA TDS]         |                 |            |
 | PRIMAR Chart Catalogue |         | [LINK][PRIMAR Chart]|[LINK][PRIMAR Chart] |                |                  |           |
 | PRIMAR security scheme test - PRIMAR remote update protocol |                 |[LINK][PRIMAR security] |           |[LINK][PRIMAR security]|           |           |
+| IHO-Canada S-100 Sea Trial |                 [LINK][Canada sample datasets]  |
 
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
 [UKHO TDS1]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
@@ -97,6 +98,7 @@ The following are links to various test datasets that are produced by the indivi
 [NOAA TDS]: https://beta.marinenavigation.noaa.gov/gateway/
 [PRIMAR Chart]: https://primar.ecc.no/primar/portal/cc/mapClient.jsf
 [PRIMAR security]: https://primar.learnworlds.com/course/s-100-data-protection-source-code-and-testdata
+[Canada sample datasets]: https://charts.gc.ca/data-gestion/s-100/products-services-produits-eng.html
 
 
 ### Testbed Programmes
@@ -110,6 +112,7 @@ The following are links to various test datasets that are produced by the indivi
 | S-100 / S-102 Demo        |ECC, PRIMAR, Norway                                                          | S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo], [S-102 Demo][S-102 Demo]|                  |   
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs                                            | S-102, S-104, S-111    | [LINK][S-100 service]                            |                  |
 | Baltic Sea e-nav project  |HOs: from DE, DK, EE, FI, LV and SE, Finnish Meterological Institute, Research Institute of Sweden, Satakunta University of Applied Sciences and Furuno Finland, (Associated Partners: IC-ENC, PRIMAR, HO:s from PL and LT). The project is co-founded by EU| S-98, S-101, S-102, S-104, S-111 | [LINK][Baltic e-nav]                            |                  |
+| IHO-Canada S-100 Sea Trial Area|Canada                                            | S-101, S-102, S-104, S-111    | [LINK][Canada S-100]                            |                  |
 
 [Lab LINK]: https://iho.int/en/projects 
 [Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
@@ -120,6 +123,7 @@ The following are links to various test datasets that are produced by the indivi
 [S-102 Demo]: https://s102.no/
 [S-100 service]: https://blog.ecc.no/s-100-data-as-a-service-how-the-chs-leverages-the-new-s-100-paradigm
 [Baltic e-nav]:https://interreg-baltic.eu/project/baltic-sea-e-nav/ 
+[Canada S-100]: https://www.canadas100.ca/ 
 
 
 
