@@ -107,7 +107,7 @@ The following are links to various test datasets that are produced by the indivi
 | --------------------------|:---------------------------------------------------------------------------:|:---------------------:|:------------------------------------------------:|:----------------:|
 | KHOA S-100 Testbed        | Rep.of Korea                                                                | S-98, S-1xx           |                                                  |[Martin PARK]         |
 | IHO-Singapore Lab         | Singapore                                                                   | S-101, S-102          | [LINK][Lab LINK]                                 |[Parry Oei]       |
-| S-100 Across the channel  |France, UK                                                                   | S-101, S-102          |                                                  |[Christian Mouden]|
+| S-100 Across the channel  |France, UK                                                                   | S-101, S-102          |                                                  |[Yves Guérin]|
 |PRIMAR Conversion Project  |PRIMAR, PRIMAR RENC member states, NTOU, SevenCs, i4Insight, TCaris, ECC   | S-101                 |[LINK][PRIMAR conversion]                         | data@ecc.no      |
 | S-100 / S-102 Demo        |ECC, PRIMAR, Norway                                                          | S-101,S-102,S-111,S-129|[S-100 Demo][S-100 Demo], [S-102 Demo][S-102 Demo]|                  |   
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs                                            | S-102, S-104, S-111    | [LINK][S-100 service]                            |                  |
@@ -117,7 +117,7 @@ The following are links to various test datasets that are produced by the indivi
 [Lab LINK]: https://iho.int/en/projects 
 [Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
 [Martin PARK]:mailto:martin.park@korea.kr
-[Christian Mouden]:mailto:christian.mouden@shom.fr
+[Yves Guérin]:mailto:yves.guerin@shom.fr
 [PRIMAR conversion]: https://iho.int/uploads/user/Services%20and%20Standards/S-100WG/S-101PT10/S-101PT10_2023_08.02_EN_PRIMAR_CTF_status_20230612.pdf
 [S-100 Demo]: https://s-100.no/
 [S-102 Demo]: https://s102.no/
