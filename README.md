@@ -97,7 +97,7 @@ The following are links to various test datasets that are produced by the indivi
 [UKHO TDS4]:https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/5f6630b0327f47689c5fa2bcb3b5eefd
 [UKHO TDS11]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/d94b8ecbe3884b129d231e8b5b757a6b
 [NOAA TDS]: https://beta.marinenavigation.noaa.gov/gateway/
-[BSH_TDS]: https://linchart60.bsh.de/chartserver/S-100/index.html/
+[BSH_TDS]: https://linchart60.bsh.de/chartserver/S-100/index.html
 [PRIMAR Chart]: https://primar.ecc.no/primar/portal/cc/mapClient.jsf
 [PRIMAR security]: https://primar.learnworlds.com/course/s-100-data-protection-source-code-and-testdata
 [Canada sample datasets]: https://charts.gc.ca/data-gestion/s-100/products-services-produits-eng.html
