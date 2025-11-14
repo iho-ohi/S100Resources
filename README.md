@@ -86,7 +86,7 @@ The following are links to various test datasets that are produced by the indivi
 | S-101 TDS[^2]  |[LINK][S101TDS]  |                 |                 |                         |                 |           |
 | UKHO MDP  [^3] | [LINK][UKHO TDS1]|[LINK][UKHO TDS2] |[LINK][UKHO TDS4] | [LINK][UKHO TDS11]|  |                 |           |
 | NOAA PMN  [^4] | |[LINK][NOAA TDS] |                 |[LINK][NOAA TDS]         |                 |            |
-| BSH        |[LINK][BSH_TDS] |[LINK][BSH_TDS] |  |  |        |  |  |
+| BSH        |[LINK][BSH_TDS] |[LINK][BSH_TDS] | [LINK][BSH_TDS] | [LINK][BSH_TDS] |        |  |  |
 | PRIMAR Chart Catalogue |         | [LINK][PRIMAR Chart]|[LINK][PRIMAR Chart] |                |                  |           |
 | PRIMAR security scheme test - PRIMAR remote update protocol |                 |[LINK][PRIMAR security] |           |[LINK][PRIMAR security]|           |           |
 | IHO-Canada S-100 Sea Trial |                 [LINK][Canada sample datasets]  |
