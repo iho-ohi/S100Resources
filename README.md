@@ -115,6 +115,7 @@ The following are links to various test datasets that are produced by the indivi
 | S-100 as a service        |ECC, PRIMAR, CHS, TCaris, SevenCs                                            | S-102, S-104, S-111    | [LINK][S-100 service]                            |                  |
 | Baltic Sea e-nav project  |HOs: from DE, DK, EE, FI, LV and SE, Finnish Meterological Institute, Research Institute of Sweden, Satakunta University of Applied Sciences and Furuno Finland, (Associated Partners: IC-ENC, PRIMAR, HO:s from PL and LT). The project is co-founded by EU| S-98, S-101, S-102, S-104, S-111 | [LINK][Baltic e-nav]                            |                  |
 | IHO-Canada S-100 Sea Trial Area|Canada                                            | S-101, S-102, S-104, S-111    | [LINK][Canada S-100]                            |                  |
+| IHO-Australia S-100 Sea Trial Area|AHO, AMSA, OMC, OSI                          | S-101, S-102, S-104, S-111, S-122, S-124, S-129, S-131    | [LINK][Torres Trait Test Bed]    |  [AHO]             |
 
 [Lab LINK]: https://iho.int/en/projects 
 [Parry Oei]:mailto:Parry_OEI@mpa.gov.sg
@@ -126,6 +127,9 @@ The following are links to various test datasets that are produced by the indivi
 [S-100 service]: https://blog.ecc.no/s-100-data-as-a-service-how-the-chs-leverages-the-new-s-100-paradigm
 [Baltic e-nav]:https://interreg-baltic.eu/project/baltic-sea-e-nav/ 
 [Canada S-100]: https://www.canadas100.ca/ 
+[Torres Trait Test Bed]:https://hydro.gov.au/video/S-100/aho-s100-chapter-4-torres-strait-testing-1080p.mp4/
+[AHO]:mailto:aho.s-100coordination@defence.gov.au
+
 
 
 
