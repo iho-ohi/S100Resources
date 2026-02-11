@@ -127,7 +127,7 @@ The following are links to various test datasets that are produced by the indivi
 [S-100 service]: https://blog.ecc.no/s-100-data-as-a-service-how-the-chs-leverages-the-new-s-100-paradigm
 [Baltic e-nav]:https://interreg-baltic.eu/project/baltic-sea-e-nav/ 
 [Canada S-100]: https://www.canadas100.ca/ 
-[Torres Trait Test Bed]:https://hydro.gov.au/video/S-100/aho-s100-chapter-4-torres-strait-testing-1080p.mp4/
+[Torres Trait Test Bed]:https://hydro.gov.au/video/S-100/aho-s100-chapter-4-torres-strait-testing-1080p.mp4
 [AHO]:mailto:aho.s-100coordination@defence.gov.au
 
 
