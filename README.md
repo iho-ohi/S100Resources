@@ -89,8 +89,9 @@ The following are links to various test datasets that are produced by the indivi
 | BSH        |[LINK][BSH_TDS] |[LINK][BSH_TDS] | [LINK][BSH_TDS] | [LINK][BSH_TDS] |        |  |  |
 | PRIMAR Chart Catalogue |         | [LINK][PRIMAR Chart]|[LINK][PRIMAR Chart] |                |                  |           |
 | PRIMAR security scheme test - PRIMAR remote update protocol |                 |[LINK][PRIMAR security] |           |[LINK][PRIMAR security]|           |           |
-| IHO-Canada S-100 Sea Trial |                 [LINK][Canada sample datasets]  |
+| IHO-Canada S-100 Sea Trial (including S-102,S-104,S-111,S-124,S-128 and S-129) | [LINK][Canada sample datasets]  |
 | Shom S-100 TDS[^2] |[LINK][Shom test datasets]|[LINK][Shom test datasets]|[LINK][Shom test datasets]|[LINK][Shom test datasets]|[LINK][Shom test datasets]||
+
 
 [S101TDS]: https://github.com/iho-ohi/S-101-Test-Datasets 
 [UKHO TDS1]: https://datahub.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/pages/s-100
