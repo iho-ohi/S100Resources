@@ -45,6 +45,7 @@ This section lists software applications which provide the capability to create 
 |                      |[NIWC S-100 ShoreECDIS] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 | I4Insight            |[dKart S-101 Converter] **`Free`** |Ed.1.0.0  |           |           |           |          |           |
 | Teledyne Geospatial  |[CARIS Easy view]   **`Free`**     |Ed.2.0.0  | Ed.3.0.0  |           |           |          |           |
+| EncDotNet            |[EncDotNet S-100 Viewer] **`Free`** |Ed.2.0.0  | Ed.3.0.0  | Ed.2.0.0  | Ed.2.0.0  |Ed.2.0.0  | Ed.2.0.0  |
 |                      |[HPD] and [Composer]               |Ed.2.0.0  |           |           |           |          |           |
 |                      |[BASE Editor]                      |          | Ed.3.0.0  |           |           |          |           |
 |                      |[CARIS Cloud]                      |          | Support   |           |Support    |          |           |
@@ -69,6 +70,7 @@ This section lists software applications which provide the capability to create 
 [Composer]:https://www.teledynecaris.com/en/products/s-100-composer/
 [BASE Editor]:https://www.teledynecaris.com/en/products/base-editor/
 [CARIS Cloud]:https://www.teledynecaris.com/en/products/caris-cloud/
+[EncDotNet S-100 Viewer]:https://github.com/philliphoff/EncDotNet.S100
 [S-421 Converter]:https://s421creator.ecc.no/index.html
 
 ### Test Datasets
